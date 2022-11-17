@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yirgaalem&label=Profile%20views&color=0e75b6&style=flat" alt="yirgaalem" /> </p>
 
-- 🔭 I’m currently working on **getting a 2023 Internship**
+- 🔭 I’m currently working on **my Portfolio Website**
 
 - 🌱 I’m currently learning **React & JavaScript**
 
-- 👯 I’m looking to collaborate on **anything, I am very open at the moment**
+<!-- - 👯 I’m looking to collaborate on **anything, I am very open at the moment** -->
 
 - 📫You can reach me at **nahoryirgaalem@gmail.com**
 

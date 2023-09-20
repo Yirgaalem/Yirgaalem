@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yirgaalem&label=Profile%20views&color=0e75b6&style=flat" alt="yirgaalem" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio Website**
+- 🔭 I’m currently working on **a secret project**
 
-- 🌱 I’m currently learning **React & JavaScript**
+- 🌱 I’m currently learning **REST API with Front end**
 
 <!-- - 👯 I’m looking to collaborate on **anything, I am very open at the moment** -->
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yirgaalem&label=Profile%20views&color=0e75b6&style=flat" alt="yirgaalem" /> </p>
 
-- 🔭 I’m currently working on a ** Full Stack Black Jack Game**
+- 🔭 I’m currently working on a **Full Stack Black Jack Game**
 
 - 🌱 I’m currently learning **Database Mangement and API Creation to connect the front and backend for applications**
 

@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yirgaalem&label=Profile%20views&color=0e75b6&style=flat" alt="yirgaalem" /> </p>
 
-- 🔭 I’m currently working on **a secret project**
+- 🔭 I’m currently working on a ** Full Stack Black Jack Game**
 
-- 🌱 I’m currently learning **REST API with Front end**
+- 🌱 I’m currently learning **Database Mangement and API Creation to connect the front and backend for applications**
 
-<!-- - 👯 I’m looking to collaborate on **anything, I am very open at the moment** -->
+<!-- - 👯 I’m looking to collaborate on **any projects** -->
 
 - 📫You can reach me at **nahoryirgaalem@gmail.com**
 
